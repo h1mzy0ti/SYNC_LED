@@ -2,14 +2,14 @@
 ESP8266 12X Module					USB to TTL/UART
 								
 CH_PD 								3v3 VCC
-VCC									3v3
+VCC								3v3
 
 GPIO0								GND
 GPIO15								GND
-GND									GND
+GND								GND
 
-TX									RX
-RX									TX
+TX								RX
+RX								TX
 
 
 
